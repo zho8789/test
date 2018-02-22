@@ -1,13 +1,15 @@
 
-1. Test Task
-	depenedency:
-		selenium 3.9.0 (python package)
+#Test Task
+
+	depenedency: selenium 3.9.0 (python package)
 	Browser: firefox
 
 	Please start test.py script
 		python test.py
 
-2. Demo(auto arbitrage-betting software) 
+#Demo(auto arbitrage-betting software) 
+
+
 	This is a bot software that scrapes odd values from several sport betting sites(ex: https://www.bet365.com, https://www.188bet.com,...) 
 	and places bet on games on which arbitrage betting is possible.
 	Unfortunately,it's automatic betting function is not working now.
